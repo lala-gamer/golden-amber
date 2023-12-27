@@ -1,0 +1,45 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+body{
+	
+}
+ul{
+	margin: 10px;
+	padding: 0;
+	list-style-type: none;
+	text-align: right;	
+}
+li{
+	display: inline;
+	padding: 10px;
+	font-size: 23px;
+	cursor: pointer;
+}
+li:hover{
+ 	color: ED09F1;
+}
+.container1{
+	background:red;
+}
+#c{
+	background: #DBD2D2;
+}
+#h{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	
+}
+#h h1{
+	display: block;
+	white-space: nowrap;
+	position: absolute;
+	top: 470px;
+	left: -637px;
+	transform: rotate(270deg);
+	background-color: #DBD2D2;
+	letter-spacing: 50px;
+	padding: 0px 500px 0px 25px;
+}
